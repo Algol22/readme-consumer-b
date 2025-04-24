@@ -1,5 +1,5 @@
 ---
-title: Getting Started with consumer22
+title: Getting Started with consumer2222
 excerpt: >-
   This page will help you get started with consumer2. You'll be up and running
   in a jiffy!
